@@ -30,7 +30,6 @@
 	}
 
 	.v-card > :last-child:not(.v-btn):not(.v-chip):not(.v-avatar) {
-	background: #212121 !important;
 	color: #FFFFFF !important;
 	}
 
