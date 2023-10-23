@@ -15,58 +15,74 @@
 	html {
 	background-color: black !important; /**This is important, otherwise there is a chance the user will be "flash-banged" suddenly.**/
 	}
-
+	
 	#front-chat-container .fc-3xgLq {
 	background-color: #9B1C14 !important;
 	}
-
+	
 	.v-application--wrap, .bg-white {
 	background: black !important;
 	}
-
+	
 	.v-card > :first-child:not(.v-btn):not(.v-chip):not(.v-avatar) {
 	background: #0F0F0F !important;
 	color: #FFFFFF !important;
 	}
-
+	
 	.v-card > :last-child:not(.v-btn):not(.v-chip):not(.v-avatar) {
 	color: #FFFFFF !important;
 	}
-
+	
 	.theme--light.v-sheet--outlined {
 	border: thin solid rgba(0,0,0,.12) !important;
 	}
-
+	
 	.v-list-item__icon, .v-list-item__content, .v-list-item__title, .v-list-item__subtitle {
 	color: #FFFFFF !important;
 	}
-
+	
 	.v-toolbar__content {
 	background: #E32C1B !important;
 	color: white !important;
 	}
-
+	
 	#app :is(.bg-white), #app :is(.bg-card) {
 	background-color: rgb(0 0 0 / var(--tw-bg-opacity)) !important;
 	color: rgb(255 255 255 / var(--tw-text-opacity)) !important;
 	}
-
-	.mr-2, .p-4 {
+	
+	.text-xl {
+	color: #3A6C9E !important;
+	}
+	
+	._toolbar_inmna_1 a[class*=v-btn--active] [class*=v-btn__content]>span {
+	color: rgb(35 35 35) !important;
+	}
+	
+	.text-black {
+	color: rgb(255 255 255) !important;
+	}
+	
+	.text-base, .text-grayStrong {
+	color: rgb(200 200 200 / var(--tw-text-opacity)) !important;
+	}
+	
+	.mr-2, .p-4, .pl-2 {
 	color: rgb(255 255 255 / var(--tw-text-opacity)) !important;
 	}
-
+	
 	.v-icon, .ml-4, .pb-2, .v-toolbar__items, .v-btn__content {
 	color: rgb(255 255 255) !important;
 	}
-
+	
 	.v-application .primary--text {
 	color: rgb(255 255 255) !important;
 	}
-
+	
 	.v-application a {
 	color: #E32C1B !important;
 	}
-
+	
 	.v-application .black--text {
 	color: rgb(255 255 255) !important;
 	}
