@@ -5,7 +5,7 @@
 // @source https://github.com/Knewest/Dark-Theme-For-Japan-Rabbit
 // @author Knewest
 // @run-at document-start
-// @match *://*.japanrabbit.com/*
+// @match *://app.japanrabbit.com/*
 // ==/UserScript==
 
 (function() {
