@@ -82,6 +82,13 @@
 	.v-application a {
 	color: #E32C1B !important;
 	}
+	.p-5 {
+	background: black !important;
+	}
+	
+	#app :is(.border-4) {
+	border-width: 1px !important;
+	}
 	
 	.v-application .black--text {
 	color: rgb(255 255 255) !important;
